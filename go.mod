@@ -10,33 +10,33 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/imdario/mergo v0.3.16
 	github.com/onsi/ginkgo/v2 v2.16.0
-	github.com/onsi/gomega v1.31.1
+	github.com/onsi/gomega v1.32.0
 	github.com/openshift/api v3.9.0+incompatible
 	github.com/openstack-k8s-operators/barbican-operator/api v0.0.0-20240310115941-5124bc86e50e
-	github.com/openstack-k8s-operators/cinder-operator/api v0.3.1-0.20240315185259-92a4d93fc876
-	github.com/openstack-k8s-operators/dataplane-operator/api v0.3.1-0.20240315071715-308b1a7103ed
+	github.com/openstack-k8s-operators/cinder-operator/api v0.3.1-0.20240321004016-b46743d3bef4
+	github.com/openstack-k8s-operators/dataplane-operator/api v0.3.1-0.20240322031811-4692e313db99
 	github.com/openstack-k8s-operators/designate-operator/api v0.0.0-20240306213520-073a542389ea
-	github.com/openstack-k8s-operators/glance-operator/api v0.3.1-0.20240314145536-52b38176eb3f
-	github.com/openstack-k8s-operators/heat-operator/api v0.3.1-0.20240318020653-c1d2b66c7c41
+	github.com/openstack-k8s-operators/glance-operator/api v0.3.1-0.20240320214039-ca211863b382
+	github.com/openstack-k8s-operators/heat-operator/api v0.3.1-0.20240322065525-15ac73804f63
 	github.com/openstack-k8s-operators/horizon-operator/api v0.3.1-0.20240318073115-dd46fc11a8f4
 	github.com/openstack-k8s-operators/infra-operator/apis v0.3.1-0.20240313161042-88282483a04f
-	github.com/openstack-k8s-operators/ironic-operator/api v0.3.1-0.20240315174418-d016dbadd829
-	github.com/openstack-k8s-operators/keystone-operator/api v0.3.1-0.20240313143432-9108b7f7290a
+	github.com/openstack-k8s-operators/ironic-operator/api v0.3.1-0.20240320220525-7cb8f24d903d
+	github.com/openstack-k8s-operators/keystone-operator/api v0.3.1-0.20240320215953-86c8fe80f1af
 	github.com/openstack-k8s-operators/lib-common/modules/certmanager v0.0.0-20240314165949-fec16b14c33b
 	github.com/openstack-k8s-operators/lib-common/modules/common v0.3.1-0.20240314165949-fec16b14c33b
 	github.com/openstack-k8s-operators/lib-common/modules/test v0.3.1-0.20240314165949-fec16b14c33b
-	github.com/openstack-k8s-operators/manila-operator/api v0.3.1-0.20240315120315-d76653575db5
+	github.com/openstack-k8s-operators/manila-operator/api v0.3.1-0.20240321230758-a4288ab2667a
 	github.com/openstack-k8s-operators/mariadb-operator/api v0.3.1-0.20240314113200-40cf3e6aa38e
-	github.com/openstack-k8s-operators/neutron-operator/api v0.3.1-0.20240308065128-4ba88761f83f
+	github.com/openstack-k8s-operators/neutron-operator/api v0.3.1-0.20240322050241-ecd3c23869c5
 	github.com/openstack-k8s-operators/nova-operator/api v0.3.1-0.20240313153742-4685453be3fb
-	github.com/openstack-k8s-operators/octavia-operator/api v0.3.1-0.20240314110716-d81f1e5d229d
-	github.com/openstack-k8s-operators/openstack-ansibleee-operator/api v0.3.1-0.20240313103756-fb4ac5373b65
-	github.com/openstack-k8s-operators/openstack-baremetal-operator/api v0.3.1-0.20240318080957-e5f6ab918182
+	github.com/openstack-k8s-operators/octavia-operator/api v0.3.1-0.20240322085412-0e4acf545f9d
+	github.com/openstack-k8s-operators/openstack-ansibleee-operator/api v0.3.1-0.20240319125140-1daeeada041d
+	github.com/openstack-k8s-operators/openstack-baremetal-operator/api v0.3.1-0.20240318132611-4df20882649d
 	github.com/openstack-k8s-operators/openstack-operator/apis v0.0.0-00010101000000-000000000000
-	github.com/openstack-k8s-operators/ovn-operator/api v0.3.1-0.20240318052728-f132fab5c943
+	github.com/openstack-k8s-operators/ovn-operator/api v0.3.1-0.20240320230612-c63d51e833d7
 	github.com/openstack-k8s-operators/placement-operator/api v0.3.1-0.20240313145348-1dd69c7bc338
-	github.com/openstack-k8s-operators/swift-operator/api v0.3.1-0.20240315154317-8b38ff1e6a8d
-	github.com/openstack-k8s-operators/telemetry-operator/api v0.3.1-0.20240311060559-4ecd4f5c3961
+	github.com/openstack-k8s-operators/swift-operator/api v0.3.1-0.20240319130811-fdb6c996e8f0
+	github.com/openstack-k8s-operators/telemetry-operator/api v0.3.1-0.20240321102326-bcdd9e80cc45
 	github.com/operator-framework/api v0.20.0
 	github.com/rabbitmq/cluster-operator/v2 v2.6.0
 	go.uber.org/zap v1.27.0
